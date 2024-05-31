@@ -1,10 +1,6 @@
-/* Wire Master Reader Writer
-by Wi6Labs
+/*HDC302x STM32f103
 
-Demonstrates use of the Wire library.
-Reads/writes data from/to an I2C/TWI slave device.
-Refer to the "Wire Slave Sender Receiver" example for use with this.
-
+GOPALREDDY LAKKIREDDY
 Created 27 June 2017
 Updated 14 August 2017
   - this example is now common to all STM32 boards
